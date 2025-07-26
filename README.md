@@ -1,2 +1,2 @@
-# -ANN-Churn-Modelling-
+# ANN-Churn-Modelling
 Implement ANN + Churn Modelling 
